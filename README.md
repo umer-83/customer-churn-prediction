@@ -47,4 +47,4 @@ Encouraging automatic payments may reduce churn.
 	•	NumPy
 	•	Matplotlib / Seaborn
 	•	Scikit-learn
-![Contract vs Churn](reports/figures/contract_vs_churn.png)
+![Contract vs Churn](reports/figures/tenure_vs_churn.png)
